@@ -1,0 +1,81 @@
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;padding: 0;border: 0;font-size: 100%;font: inherit;vertical-align: baseline;}
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}body {line-height: 1;}ol, ul {list-style: none;}
+blockquote, q {quotes: none;}blockquote:before, blockquote:after,q:before, q:after {content: '';content: none;}table{border-collapse: collapse;border-spacing: 0;}
+body{
+	background-color:#95c8d8;
+	padding-left:20px;
+	padding-right:30px;
+	padding-bottom:10px;
+}
+#intro img {
+	float:left;
+	padding-left:40px;
+	margin-top:10px;
+	padding-bottom:10px;
+}
+#intro h2{
+	font-size:15px;
+	font-family:algerian;
+	padding-left:195px;
+	padding-top:10px;
+	font-weight:bold;
+	line-height:20px;
+}	
+#textintro{
+	margin-bottom:20px;
+	clear:left;
+	font-weight:bold;
+	font-family:serif;
+	font-style:italic;
+	font-size:17px;
+	padding-left:40px;
+}
+#navigation{
+	padding-left:20px;
+	font-family:fantasy;
+	font-size:25px;
+	margin-bottom:25px;
+	float:right;
+	padding-right:50px;
+ }		
+#navigation a{
+	background-color:#4682b4;
+	color:white;
+	padding:6px 15px 5px 15px;
+	margin-left:20px;
+}
+#content img{
+	margin-right:80px;
+	box-shadow:-3px 1px 15px deepskyblue;
+}
+#content{
+	font-size:20px;
+	font-style:helvetica,sans-serif;
+	font-weight:700px;
+	padding-left:40px;
+}
+#content p{
+	font-style:serif;
+	padding:20px 0px;
+}
+.slides{
+	position:absolute;
+	right:0;
+}
+#about-me
+{
+	border-top:2px dashed black;
+	clear:right;
+}
+.topheading{
+	padding-left:40px;
+	padding-top: 12px;
+	padding-bottom: 7px;
+	font-family: cursive;
+	font-size: 27px;
+	font-weight: 900;
+}					
+
