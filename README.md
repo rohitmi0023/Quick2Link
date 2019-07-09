@@ -1,1 +1,1 @@
-# my_website
+A basic website build to implement mainly the front-end part of the web development learnt. It contains the links to my various frequently used sites. A better version of this project is the New_website repo that I am currently working upon.
